@@ -105,3 +105,8 @@ $ python yoloface.py --video samples/video.mp4 --output-dir outputs/
 
 YOLOFace-(v3)
 
+## TEAM
+Raja Abhay Singh
+Sowmya
+Manjju Shree
+Siri
